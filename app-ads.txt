@@ -1,0 +1,4 @@
+# app-ads.txt for ColdFire Games (https://coldfiregames.app/app-ads.txt)
+# Lists who may sell ads in our apps. Add one line per ad network once accounts exist, e.g. for AdMob:
+#   google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+# (AdMob shows your exact line under Apps -> View all apps -> app-ads.txt.)
